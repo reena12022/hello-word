@@ -35,6 +35,7 @@ return(
 )
 }
 export default TimingAnimation
+
 const styles = StyleSheet.create({
     container: {
       flex: 1,
