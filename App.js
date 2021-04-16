@@ -15,7 +15,7 @@ const App = () => {
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
       
-      {/* <FirstPage /> */}
+     
       <TimingAnimation/>
       </PersistGate>
     </Provider>
