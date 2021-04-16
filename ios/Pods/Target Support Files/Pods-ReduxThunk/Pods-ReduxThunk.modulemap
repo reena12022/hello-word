@@ -1,0 +1,6 @@
+module Pods_ReduxThunk {
+  umbrella header "Pods-ReduxThunk-umbrella.h"
+
+  export *
+  module * { export * }
+}

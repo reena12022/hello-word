@@ -1,0 +1,1 @@
+export const Signup="http://localhost:3000/v1/signup/basic"

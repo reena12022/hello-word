@@ -1,0 +1,3 @@
+export const GET_PAGE_LIST='GET_PAGE_LIST';
+export const SIGNUP_SUCCESS='SIGNUP_SUCCESS';
+export const SIGNUP_FAIL="SIGNUP_FAIL";
